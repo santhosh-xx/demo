@@ -1,3 +1,3 @@
 # demo
 demo repository
-author - sandy
+author - (sandy)
